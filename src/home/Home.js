@@ -12,7 +12,7 @@ const Home = () => {
           <Link className="link" to="/expenses">Despesas</Link>
           <Link className="link" to="/income">Renda</Link>
           <Link className="link" to="/reports">Relatórios</Link>
-          <Link className="link" to="/">Login</Link>
+          <Link className="link" to="/login">Login</Link>
         </nav>
       </header>
       <main className="main">
